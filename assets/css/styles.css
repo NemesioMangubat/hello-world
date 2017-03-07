@@ -20,4 +20,9 @@ body {
   overflow: hidden;
 }
 
+/* line 17, C:/Users/joshu/Desktop/hello-world/assets/scss/styles.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0;
+}
+
 /*# sourceMappingURL=../css/styles.map */
