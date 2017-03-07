@@ -1,0 +1,23 @@
+/* line 1, C:/Users/joshu/Desktop/hello-world/assets/scss/styles.scss */
+body {
+  font-family: 'Open Sans', san-serif;
+  font-size: 16px;
+  line-height: normal;
+  color: #333;
+}
+
+/* line 7, C:/Users/joshu/Desktop/hello-world/assets/scss/styles.scss */
+.wrapper {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* line 13, C:/Users/joshu/Desktop/hello-world/assets/scss/styles.scss */
+.wrapper .innner-wrapper {
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=../css/styles.map */
