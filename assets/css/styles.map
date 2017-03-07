@@ -5,8 +5,8 @@
 		"../scss/styles.scss"
 	],
 	"sourcesContent": [
-		"body{\r\n  font-family: 'Open Sans', san-serif;\r\n  font-size: 16px;\r\n  line-height: normal;\r\n  color: #333;\r\n}\r\n.wrapper{\r\n  width: 100%;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n  padding-left: 0;\r\n  padding-right: 0;\r\n  .innner-wrapper{\r\n    overflow: hidden;\r\n  }\r\n}\r\n"
+		"body{\r\n  font-family: 'Open Sans', san-serif;\r\n  font-size: 16px;\r\n  line-height: normal;\r\n  color: #333;\r\n}\r\n.wrapper{\r\n  width: 100%;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n  padding-left: 0;\r\n  padding-right: 0;\r\n  .innner-wrapper{\r\n    overflow: hidden;\r\n  }\r\n}\r\nh1,h2,h3,h4,h5,h6{\r\n  margin-bottom: 0;\r\n}\r\n"
 	],
-	"mappings": ";AAAA,AAAA,IAAI,CAAA;EACF,WAAW,EAAE,sBAAuB;EACpC,SAAS,EAAE,IAAK;EAChB,WAAW,EAAE,MAAO;EACpB,KAAK,EAAE,IAAK;CACb;;;AACD,AAAA,QAAQ,CAAA;EACN,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,IAAK;EAClB,YAAY,EAAE,IAAK;EACnB,YAAY,EAAE,CAAE;EAChB,aAAa,EAAE,CAAE;CAIlB;;;AATD,AAME,QANM,CAMN,eAAe,CAAA;EACb,QAAQ,EAAE,MAAO;CAClB",
+	"mappings": ";AAAA,AAAA,IAAI,CAAA;EACF,WAAW,EAAE,sBAAuB;EACpC,SAAS,EAAE,IAAK;EAChB,WAAW,EAAE,MAAO;EACpB,KAAK,EAAE,IAAK;CACb;;;AACD,AAAA,QAAQ,CAAA;EACN,KAAK,EAAE,IAAK;EACZ,WAAW,EAAE,IAAK;EAClB,YAAY,EAAE,IAAK;EACnB,YAAY,EAAE,CAAE;EAChB,aAAa,EAAE,CAAE;CAIlB;;;AATD,AAME,QANM,CAMN,eAAe,CAAA;EACb,QAAQ,EAAE,MAAO;CAClB;;;AAEH,AAAA,EAAE,EAAC,AAAA,EAAE,EAAC,AAAA,EAAE,EAAC,AAAA,EAAE,EAAC,AAAA,EAAE,EAAC,AAAA,EAAE,CAAA;EACf,aAAa,EAAE,CAAE;CAClB",
 	"names": []
 }
